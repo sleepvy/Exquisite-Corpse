@@ -2,12 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+    Vy Le
+    Kyle Faucher
+    Sophie Foster
+    Ian Kresyman
+    Alana Faller
 
 # THANKS
 
-    <name>
+    Thanks to Github
 
 # TECHNOLOGY COLOPHON
 
