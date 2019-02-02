@@ -104,13 +104,45 @@ rgb 191 137 145
     250 213 201
     */
 body{
-    
+    text-align: center;
+    background-color: gainsboro;
 }
-p{
+p{  margin: 0;
+    font-size: 1.3em;
+    text-align: left;
+    max-width: 100%;
     background:rgba(68, 62, 88, .6);
-    max-width: 800px;
+    /*max-width: 800px;*/
     color:rgba(250,213,201,1);
-    font-family: ;
+    padding:20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: 'Lora', serif;
+   
+}
+
+.picture{
+    margin:0;
+    max-width: 100%;
+    width:100%;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pic1{
+    background-image: url("../img/moon.jpg");
+}
+
+#pic2{
+    background-image: url("../img/snow.jpg");
+}
+
+h1{
+    font-size: 4em;
+    margin: 70px;
 }
 
 
