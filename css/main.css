@@ -114,7 +114,7 @@ p{  margin: 0;
     background:rgba(68, 62, 88, .6);
     /*max-width: 800px;*/
     color:rgba(250,213,201,1);
-    padding:20px;
+    padding:30px;
     padding-left: 60px;
     padding-right: 60px;
     font-family: 'Lora', serif;
@@ -140,6 +140,9 @@ p{  margin: 0;
     background-image: url("../img/snow.jpg");
 }
 
+#pic3 {
+    background-image: url("../img/mountains.jpg");
+}
 h1{
     font-size: 4em;
     margin: 70px;
