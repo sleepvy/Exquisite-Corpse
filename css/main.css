@@ -119,7 +119,7 @@ p{  margin: 0;
     padding-left: 60px;
     padding-right: 60px;
     font-family: 'Montserrat', sans-serif;
- box-shadow: 1px 6px 54px 18px rgba(0,0,0,0.75);
+    box-shadow: 1px 6px 54px 18px rgba(0,0,0,0.75);
     z-index: 900;
    
 }
@@ -191,9 +191,6 @@ h1{
 
 }
 
-#particles-js{
-    position: fixed;
-}
 
 
 
