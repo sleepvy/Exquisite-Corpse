@@ -105,15 +105,16 @@ rgb 191 137 145
     */
 body{
     text-align: center;
-    background-color: gainsboro;
+    background-color: #22424B;
+    color:white;
 }
 p{  margin: 0;
-    font-size: 1.3em;
+    font-size: 1.5em;
     text-align: left;
     max-width: 100%;
-    background:rgba(68, 62, 88, .6);
+    background-color: #192B38;
     /*max-width: 800px;*/
-    color:rgba(250,213,201,1);
+    color:white;
     padding:30px;
     padding-left: 60px;
     padding-right: 60px;
@@ -144,7 +145,12 @@ p{  margin: 0;
     background-image: url("../img/mountains.jpg");
 }
 
-
+#pic4{
+    background-image: url("../img/ECimage.jpg");
+}
+#pic5{
+    background-image: url("../img/ECimage2.jpg")
+}
 
 #pic6{
     background-image: url("../img/lightning.jpg");
