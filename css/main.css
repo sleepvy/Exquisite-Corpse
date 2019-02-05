@@ -143,6 +143,12 @@ p{  margin: 0;
 #pic3 {
     background-image: url("../img/mountains.jpg");
 }
+
+
+
+#pic6{
+    background-image: url("../img/lightning.jpg");
+}
 h1{
     font-size: 4em;
     margin: 70px;
