@@ -119,10 +119,14 @@ p{  margin: 0;
     padding-left: 60px;
     padding-right: 60px;
     font-family: 'Montserrat', sans-serif;
+ box-shadow: 1px 6px 54px 18px rgba(0,0,0,0.75);
+    z-index: 900;
    
 }
 
 .picture{
+    box-shadow:inset 0 0 30px #000000;
+    z-index: 1;
     margin:0;
     max-width: 100%;
     width:100%;
@@ -156,7 +160,7 @@ p{  margin: 0;
     background-image: url("../img/lightning.jpg");
 }
 #pic7{
-    background-image: url("../img/ECimage3");
+    background-image: url("../img/ECimage3.jpg");
 }
 #pic8{
     background-image: url("../img/ECimage4.jpg");
