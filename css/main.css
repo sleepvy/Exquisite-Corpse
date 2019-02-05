@@ -160,8 +160,12 @@ h1{
     margin: 70px;
     font-family: 'Monoton', cursive;
     text-transform: uppercase;
+
 }
 
+#particles-js{
+    position: fixed;
+}
 
 
 
