@@ -1,3 +1,4 @@
 # Exquisite-Corpse
 
-A short story collectively written by 5 students using GitHub 
+A romance sci-fi thriller collectively written by 5 students using GitHub
+
