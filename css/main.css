@@ -1,4 +1,4 @@
-,/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
+/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
 
 /*
  * What follows is the result of much research on cross-browser styling.
@@ -113,7 +113,7 @@ p{  margin: 0;
     text-align: left;
     max-width: 100%;
     background-color: #192B38;
-    max-width: 800px;
+    /*max-width: 800px;*/
     color:white;
     padding:30px;
     padding-left: 60px;
@@ -191,6 +191,9 @@ h1{
 
 }
 
+#particles-js{
+    position: fixed;
+}
 
 
 
